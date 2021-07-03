@@ -1,1 +1,18 @@
-# winn
+Simple Calculator
+
+Made with Servlet
+
+Requirements:
+
+1) INSTALL JDK IN PC
+
+2) INSTALL ECLIPSE IDE / NETBEANS 
+
+3) TOMCAT SERVER
+
+
+FILES REQUIRE:
+
+HTML
+JAVA
+XML
